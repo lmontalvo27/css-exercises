@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
